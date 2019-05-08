@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TireHubRebateProgram", "TireHubRebateProgram\TireHubRebateProgram.dtproj", "{A50A21FE-B1F7-4845-9972-097AE766B315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A50A21FE-B1F7-4845-9972-097AE766B315}.Development|Default.ActiveCfg = Development
+		{A50A21FE-B1F7-4845-9972-097AE766B315}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5055CCFF-7A99-4A30-A01A-AF5CE3DFE3F7}
+	EndGlobalSection
+EndGlobal
